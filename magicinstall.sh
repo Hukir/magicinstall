@@ -68,6 +68,7 @@ bindkey '^[[B' down-line-or-search
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 eval "$(zoxide init zsh)"
 source <(fzf --zsh)
+export PATH="$HOME/.venv/bin:$PATH"
 EOF
 
 # .tmux.conf
