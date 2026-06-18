@@ -1,8 +1,8 @@
-Save it: nano magicinstall.sh
+Make it executable:
+sudo chmod +x magicinstall.sh
 
-Make it executable: chmod +x magicinstall.sh
-
-Run it: ./magicinstall.sh
+Run it: 
+./magicinstall.sh
 
 
 
