@@ -19,7 +19,7 @@ read -rp "Quel nom veux-tu afficher dans zsh/tmux ? [Tchou] " term_name
 term_name="${term_name:-Tchou}"
 printf "\n\n"
 
-echo "Good choice, let's start installing stuff"
+echo "Bon choix, je commence l'installation"
 printf "\n"
 echo "Don't go to far I will some autorization"
 
@@ -325,7 +325,7 @@ BANNER
 
 
 echo "You will now be teleported in tmux" 
-echo "To check out your new features go ahead and read th Readme.md"
+echo "To check out your new features go ahead and read the README.md"
 
 
 sleep 3
