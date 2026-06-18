@@ -21,7 +21,7 @@ printf "\n\n"
 
 echo "Bon choix, je commence l'installation"
 printf "\n"
-echo "Don't go to far I will some autorization"
+echo "Don't go to far I might need some autorization"
 
 
 printf "\n\n\n"
